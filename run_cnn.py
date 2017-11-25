@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from cnn_model import *
-from data.cnews_loader import *
+from data_utils.cnews_loader import *
 from sklearn import metrics
 import sys
 
